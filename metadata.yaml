@@ -1,0 +1,30 @@
+_repo: Huttens-letzte-Tage_5801
+creator:
+  author:
+    agent_name: Meyer, Conrad Ferdinand
+    aliases:
+    - Meyer-Ziegler, Konrad Ferdinand
+    - Meyer, C. F. (Conrad Ferdinand)
+    - Meyer, Konrad Ferdinand
+    birthdate: 1825
+    deathdate: 1898
+    gutenberg_agent_id: '1259'
+    url: http://www.gutenberg.org/2009/agents/1259
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Conrad_Ferdinand_Meyer
+    - http://de.wikipedia.org/wiki/Conrad_Ferdinand_Meyer
+description: ''
+gutenberg_bookshelf: DE Lyrik
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5801'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German poetry -- 19th century'
+- !lcc 'PT'
+title: Huttens letzte Tage
+url: http://www.gutenberg.org/ebooks/5801
